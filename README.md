@@ -10,10 +10,10 @@ The Iris Flower Classification project involved building machine learning models
 3. The Logistic Regression model used regression analysis to estimate the probability of a flower being a certain species, based on its characteristics.
 <p align="center"><img width="300" height="350" alt="Screenshot 2023-04-20 at 2 55 12 PM" src="https://user-images.githubusercontent.com/98439391/233496037-a2ff73dc-acbf-4cf2-9f9e-a2238eac9bde.png">
 </p>
-<p align="center"><img width="405" height="150" alt="Screenshot 2023-04-20 at 3 01 45 PM" src="https://user-images.githubusercontent.com/98439391/233496903-918dbf21-121e-4bd9-acb9-949efb5f330b.png">
+<p align="center"><img width="450" height="150" alt="Screenshot 2023-04-20 at 3 01 45 PM" src="https://user-images.githubusercontent.com/98439391/233496903-918dbf21-121e-4bd9-acb9-949efb5f330b.png">
 </p>
 4. A 4-dimensional dataset was analyzed using Principal Component Analysis (PCA) to reduce its dimensionality to 1-dimensional space, while maintaining an accuracy rate of 93%.
-<p align="center"><img width="514" alt="Screenshot 2023-04-20 at 2 53 02 PM" src="https://user-images.githubusercontent.com/98439391/233495714-3d2e419a-b5f2-4ef2-bfd9-7fe04c6899f8.png">
+<p align="center"><img width="450" height="150" alt="Screenshot 2023-04-20 at 2 53 02 PM" src="https://user-images.githubusercontent.com/98439391/233495714-3d2e419a-b5f2-4ef2-bfd9-7fe04c6899f8.png">
 </p>
 Preprocessed the dataset by performing feature scaling and splitting the data into training and testing sets.
 Achieved an average accuracy of 95% on the test set by tuning the hyperparameters of the Naive Bayes model and performing cross-validation. Visualized the dataset using scatter plots and created decision boundaries to visualize the classification results.
