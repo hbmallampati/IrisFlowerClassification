@@ -2,7 +2,7 @@
 #### Description 
 The Iris Flower Classification project involved building machine learning models to classify Iris flowers into different species based on the dimensions of their petals and sepals. Three different models were developed and tested: Naive Bayes, K-Means, and Logistic Regression.
 1. The Naive Bayes model used probability theory to calculate the likelihood of an Iris flower belonging to a particular species, based on its measurements. 
-<p align="center"><img width="900" height="100" alt="Screenshot 2023-04-20 at 2 58 37 PM" src="https://user-images.githubusercontent.com/98439391/233496469-4cfd4a29-11a9-4ce0-83c4-aad683de7b5b.png">
+<p align="center"><img width="800" height="100" alt="Screenshot 2023-04-20 at 2 58 37 PM" src="https://user-images.githubusercontent.com/98439391/233496469-4cfd4a29-11a9-4ce0-83c4-aad683de7b5b.png">
 </p>
 2. The K-Means model used clustering to group the flowers into different clusters based on their similarities, and then assigned them to a particular species. 
 <p align="center"><img width="402" alt="Screenshot 2023-04-20 at 2 51 43 PM" src="https://user-images.githubusercontent.com/98439391/233495470-22b72cf4-a446-489e-952d-3e4214a5a0f5.png">
