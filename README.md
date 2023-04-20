@@ -4,7 +4,6 @@ The Iris Flower Classification project involved building machine learning models
 1. The Naive Bayes model used probability theory to calculate the likelihood of an Iris flower belonging to a particular species, based on its measurements. 
 2. The K-Means model used clustering to group the flowers into different clusters based on their similarities, and then assigned them to a particular species. 
 3. The Logistic Regression model used regression analysis to estimate the probability of a flower being a certain species, based on its characteristics.
-4. A 4-dimensional dataset was analyzed using Principal Component Analysis (PCA) to reduce its dimensionality to 1-dimensional space, while maintaining an accuracy rate of 93%.
-</br>
+4. A 4-dimensional dataset was analyzed using Principal Component Analysis (PCA) to reduce its dimensionality to 1-dimensional space, while maintaining an accuracy rate of 93%.</br>
 Preprocessed the dataset by performing feature scaling and splitting the data into training and testing sets.
 Achieved an average accuracy of 95% on the test set by tuning the hyperparameters of the Naive Bayes model and performing cross-validation. Visualized the dataset using scatter plots and created decision boundaries to visualize the classification results.
