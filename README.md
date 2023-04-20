@@ -8,7 +8,7 @@ The Iris Flower Classification project involved building machine learning models
 <p align="center"><img width="300" height="350" alt="Screenshot 2023-04-20 at 2 51 43 PM" src="https://user-images.githubusercontent.com/98439391/233495470-22b72cf4-a446-489e-952d-3e4214a5a0f5.png">
 </p>
 3. The Logistic Regression model used regression analysis to estimate the probability of a flower being a certain species, based on its characteristics.
-<p align="center"><img width="387" alt="Screenshot 2023-04-20 at 2 55 12 PM" src="https://user-images.githubusercontent.com/98439391/233496037-a2ff73dc-acbf-4cf2-9f9e-a2238eac9bde.png">
+<p align="center"><img width="300" height="350" alt="Screenshot 2023-04-20 at 2 55 12 PM" src="https://user-images.githubusercontent.com/98439391/233496037-a2ff73dc-acbf-4cf2-9f9e-a2238eac9bde.png">
 </p>
 <p align="center"><img width="525" alt="Screenshot 2023-04-20 at 3 01 45 PM" src="https://user-images.githubusercontent.com/98439391/233496903-918dbf21-121e-4bd9-acb9-949efb5f330b.png">
 </p>
